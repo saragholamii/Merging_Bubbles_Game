@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a19db8d286622f7408e14f4d6d6c651b, type: 3}
+  m_Name: FruitDataList
+  m_EditorClassIdentifier: 
+  fruitsDataList:
+  - fruitName: Watermelon
+    sprite: {fileID: -780035217, guid: 4362a137e27f74943a4b68100390232d, type: 3}
+    size: {x: 1, y: 1}
+    score: 5
+    level: 0
+  - fruitName: Pineapple
+    sprite: {fileID: 888319101, guid: 6dc111772ac961d44861c42e7ba42564, type: 3}
+    size: {x: 0.9, y: 0.9}
+    score: 10
+    level: 1
+  - fruitName: Melon
+    sprite: {fileID: -668752638, guid: 353b8dbc197ca5b45af196a9659b5955, type: 3}
+    size: {x: 0.85, y: 0.85}
+    score: 15
+    level: 2
+  - fruitName: Coconut
+    sprite: {fileID: 434613630, guid: ee96a50727297a642aab00c5fed76823, type: 3}
+    size: {x: 0.8, y: 0.8}
+    score: 25
+    level: 3
+  - fruitName: Grapefruit
+    sprite: {fileID: -120449788, guid: 16c199e8310d2034b9af98b96ed7bfe0, type: 3}
+    size: {x: 0.75, y: 0.75}
+    score: 35
+    level: 4
+  - fruitName: Mango
+    sprite: {fileID: -1485843720, guid: 041eae7674bd53a4d95e78e6e295a4e9, type: 3}
+    size: {x: 0.7, y: 0.7}
+    score: 50
+    level: 5
+  - fruitName: Apple
+    sprite: {fileID: -1548344000, guid: 78f3c73477aa21f46a2029d2a6a6b620, type: 3}
+    size: {x: 0.6, y: 0.6}
+    score: 75
+    level: 6
+  - fruitName: Orange
+    sprite: {fileID: 1445026095, guid: f795747031ed3024ea2936992c20002e, type: 3}
+    size: {x: 0.5, y: 0.5}
+    score: 110
+    level: 7
+  - fruitName: Pear
+    sprite: {fileID: 1805135080, guid: 353c7f46e2d6b7244bea616e29f6245a, type: 3}
+    size: {x: 0.45, y: 0.45}
+    score: 150
+    level: 8
+  - fruitName: Peach
+    sprite: {fileID: 593275363, guid: 3e967241f36d2d9469829393a81b5a01, type: 3}
+    size: {x: 0.4, y: 0.4}
+    score: 200
+    level: 9
+  - fruitName: Plum
+    sprite: {fileID: -1797580108, guid: b3508650265de2a4c8c8ebbcbec9e1af, type: 3}
+    size: {x: 0.3, y: 0.3}
+    score: 250
+    level: 10
+  - fruitName: Lemon
+    sprite: {fileID: 699975374, guid: e7cdfb02fd7830648af87aec8f7e47c0, type: 3}
+    size: {x: 0.25, y: 0.25}
+    score: 350
+    level: 11
+  - fruitName: Kiwi
+    sprite: {fileID: -1766112638, guid: f774e0cdc3c1c4b45b112b17fad370c0, type: 3}
+    size: {x: 0.2, y: 0.2}
+    score: 500
+    level: 12
+  - fruitName: Strawberry
+    sprite: {fileID: 1519275772, guid: 144a1496b533606418c629a64162cb06, type: 3}
+    size: {x: 0.15, y: 0.15}
+    score: 650
+    level: 13
+  - fruitName: Blueberry
+    sprite: {fileID: 466782978, guid: 775240d408796844482bcca557cbb949, type: 3}
+    size: {x: 0.1, y: 0.1}
+    score: 900
+    level: 14
